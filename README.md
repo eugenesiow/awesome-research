@@ -1,4 +1,4 @@
-# Awesome Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://gitly.hopto.org/eugene/awesome-research)
+# Awesome Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/eugenesiow/awesome-research)
 
 A curated list of amazing awesome academic papers.
 
